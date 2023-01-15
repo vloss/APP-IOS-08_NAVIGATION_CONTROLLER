@@ -13,6 +13,7 @@
 		B76B6574297443EE00A396E9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B76B6572297443EE00A396E9 /* Main.storyboard */; };
 		B76B6576297443EF00A396E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B76B6575297443EF00A396E9 /* Assets.xcassets */; };
 		B76B6579297443EF00A396E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B76B6577297443EF00A396E9 /* LaunchScreen.storyboard */; };
+		B76B658329744B7500A396E9 /* Second2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76B658229744B7500A396E9 /* Second2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B76B6575297443EF00A396E9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B76B6578297443EF00A396E9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B76B657A297443EF00A396E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B76B658229744B7500A396E9 /* Second2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Second2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				B76B6575297443EF00A396E9 /* Assets.xcassets */,
 				B76B6577297443EF00A396E9 /* LaunchScreen.storyboard */,
 				B76B657A297443EF00A396E9 /* Info.plist */,
+				B76B658229744B7500A396E9 /* Second2ViewController.swift */,
 			);
 			path = "Navigation Controller";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				B76B6571297443EE00A396E9 /* ViewController.swift in Sources */,
 				B76B656D297443EE00A396E9 /* AppDelegate.swift in Sources */,
 				B76B656F297443EE00A396E9 /* SceneDelegate.swift in Sources */,
+				B76B658329744B7500A396E9 /* Second2ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
